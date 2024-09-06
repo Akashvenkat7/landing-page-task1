@@ -231,9 +231,8 @@ transition: 0.3s;
 .travel-agency-landing-page .hero-image{
   background: url('./assets/images/tourist_with_thumb_up_1_removebg_1.png');
   position: absolute;
-  left: 68%;
-  bottom: 270px;
-  right: 300px;
+  left: 85%;
+  bottom: 100px;
   translate: -50% 0;
   width: 590px;
   height: 570px;
